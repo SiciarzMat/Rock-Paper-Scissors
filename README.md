@@ -12,6 +12,7 @@ https://siciarzmat.github.io/Rock-Paper-Scissors/
 ## General info
 
 Try your luck and challenge computer opponent in the game of Rock ✊ Paper ✋ Scissors ✌. So... "Do you feel lucky, punk?".
+
 Working on this repository helped me to train simple vanilla JS functions and logic, and refresh HTML/CSS basics.
 
 ## Technologies
